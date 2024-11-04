@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Janellsita</a> 👋</h1>
 </div>
-<img src="![Uploading Banner para YouTube Vlog semanal Danish pastel Rosa.png()
-">
+<img src="(https://github.com/user-attachments/assets/9b7b735a-d236-4f01-9d4d-92081cab907d)" >
 
 ## Redes sociales
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-52gmBzNPozCKJrOOMdEMg)](https://youtube.com/@aledevs-u2g?si=WCsFHhPxd7J3gBaf)
@@ -18,5 +17,4 @@
 
 ## Sobre mi
 
-- ¡Hola! Soy Aledevs, una apasionada diseñadora de
-Karime Mateos.
+- Holuuu soy janelle una excelente programadora.
