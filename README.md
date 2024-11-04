@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Janellsita</a> 👋</h1>
 </div>
-<img src="![Uploading Banner para YouTube Vlog semanal Danish pastel Rosa.png…]()
+<img src="![Uploading Banner para YouTube Vlog semanal Danish pastel Rosa.png()
 ">
 
 ## Redes sociales
