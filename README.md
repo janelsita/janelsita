@@ -1,7 +1,8 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Aledevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Janellsita</a> 👋</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/3d86f0e7-eeb3-48d7-af3d-b931557b2445">
+<img src="![Uploading Banner para YouTube Vlog semanal Danish pastel Rosa.png…]()
+">
 
 ## Redes sociales
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-52gmBzNPozCKJrOOMdEMg)](https://youtube.com/@aledevs-u2g?si=WCsFHhPxd7J3gBaf)
