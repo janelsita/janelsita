@@ -1,10 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Janellsita</a> 👋</h1>
 </div>
-<img src="(https://github.com/user-attachments/assets/9b7b735a-d236-4f01-9d4d-92081cab907d)" >
+<img src="https://github.com/user-attachments/assets/9b7b735a-d236-4f01-9d4d-92081cab907d" >
 
 ## Redes sociales
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-52gmBzNPozCKJrOOMdEMg)](https://youtube.com/@aledevs-u2g?si=WCsFHhPxd7J3gBaf)
+[![YouTube Channel Subscribers]https://www.youtube.com/@janelleArmendariz-d1d
 <a herf="https://www.instagram.com/alesita17_/?hl=es">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
